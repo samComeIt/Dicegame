@@ -9,7 +9,7 @@ GAME RULES:
 
 */
 var scores, roundScore, activePlayer;
-init();
+init(); // use dry function
 /*dice = Math.floor(Math.random() * 6) + 1;
 console.log(dice);*/
 
